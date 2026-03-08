@@ -2,7 +2,7 @@
 
 [**Source Code**](https://github.com/rakibul-efty20/leno-website-css) | [**Live Demo**](https://lenowebsitecss.vercel.app/)
 
-## 📂 View Code | 🚀 View Live Site
+
 
 ### 📖 Project Overview
 
